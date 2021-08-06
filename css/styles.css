@@ -1,0 +1,122 @@
+html {
+  background-color: #E4E9FD;
+  font-family: 'helvetica neue';
+}
+
+h1, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    /* font-family: 'Montserrat', sans-serif; */
+  font-weight: bold;
+  font-size: 2.3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+
+
+/* .container-fluid {
+  padding: 0% 8% 0% 0%;
+} */
+
+.colored-section{
+  color: #78DEC7;
+}
+#title {
+   background-color: #fff ;   /* navbar's color select */
+   color: #78DEC7;
+}
+
+.back{
+  background-image: url(https://www.tatahealth.com/04d5d5ed72ff3a41a7472b4c040023d6.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  /* font-weight: bold; */
+}
+
+.nav-link {
+  font-size: 1.3rem;
+  font-weight:400;
+}
+
+#heading {
+    background-color: #78DEC7;
+    text-align: center;
+}
+
+h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.big-heading {
+  color: #78DEC7;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.btn{
+background-color: #78DEC7 ;
+}
+
+.btn:hover {
+  background-color: #289672 ;
+}
+
+
+#features {
+  padding: 7% 15%;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+}
+
+.feature-box {
+  font-size: 1.3rem;
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #29BB89;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #66DE93;
+}
+
+
+
+/* Footer formatting  */
+#footer {
+  background-color: #fff;
+  padding: 5% 15%;
+  text-align: center;
+}
+
+.ff {
+  margin: 20px 10px;
+}
